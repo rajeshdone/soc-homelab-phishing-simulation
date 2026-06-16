@@ -90,4 +90,4 @@ limitation that reinforces the need for layered detection.
 
 ## Related Project
 [SOC Homelab — SSH Brute-Force Detection]
-(https://github.com/Juzrajesh/soc-homelab-ssh-bruteforce)
+(https://github.com/rajeshdone/soc-homelab-ssh-bruteforce)
