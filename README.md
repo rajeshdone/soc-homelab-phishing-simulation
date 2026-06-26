@@ -191,9 +191,19 @@ All screenshots are embedded inline throughout the walkthrough above. Raw files 
 
 ---
 
-## 👤 Author
+# 𝖱 𝖠 𝖩 𝖤 𝖲 𝖧
+![SOC Analyst](https://img.shields.io/badge/Role-Associate%20SOC%20Analyst-blue?style=for-the-badge&logo=checkpoint) ![Focus](https://img.shields.io/badge/Focus-Detection%20Engineering%20%26%20Blue%20Teaming-red?style=for-the-badge&logo=splunk)
 
-**rajeshdone** — SOC Homelab Series
+> **`SIEM Mechanics` • `Threat Behavior Analysis` • `Defensive Lab Architecture`**
+> 
+> Passionate about building defensive security labs, analyzing threat behaviors, and engineering SIEM detection mechanics. Focused on practical, hands-on homelab builds to master enterprise-grade security tools.
+
+---
+
+#### **Connect:**
+*   🔗 **LinkedIn:** [linkedin.com/in/rajesh105](https://www.linkedin.com/in/rajesh105)
+*   ✉️ **Email:** rajeshrajendran105@gmail.com
+*   💻 **GitHub:** [github.com/rajeshdone](https://github.com/rajeshdone)
 
 > *Built to develop real detection skills, not just theory.*
 
