@@ -102,7 +102,7 @@ POSSIBLE USERNAME FIELD FOUND: login=testattempt@gmail.com
 POSSIBLE PASSWORD FIELD FOUND: password=fakepassword123
 ```
 
-![SET Credential Harvest Output](phishing_capture.png.png)
+![SET Credential Harvest Output](Screenshots/phishing_capture.png.png)
 
 ---
 
@@ -123,7 +123,7 @@ sudo cp /tmp/phishing_readable.txt /var/log/phishing_capture.log
 
 Splunk ingested the log and returned **2 events showing HTTP POST /session HTTP/1.1** from `ubuntu:50946 → 10.0.2.3`.
 
-![tcpdump HTTP POST Capture](HTTP%20POST-session.png.png)
+![tcpdump HTTP POST Capture](Screenshots/HTTP%20POST-session.png.png)
 
 ---
 
@@ -135,7 +135,7 @@ index=main sourcetype=phishing_capture "POST"
 
 This query surfaces HTTP POST events — the exact mechanism used to exfiltrate credentials.
 
-![Splunk Events - phishing_capture sourcetype](POSSIBLE%20USERNAME-PASSWORD%20FIELD%20FOUN....png)
+![Splunk Events - phishing_capture sourcetype](Screenshots/POSSIBLE%20USERNAME-PASSWORD%20FIELD%20FOUN....png)
 
 ---
 
