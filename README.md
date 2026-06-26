@@ -180,10 +180,9 @@ This query surfaces HTTP POST events — the exact mechanism used to exfiltrate 
 
 All screenshots are embedded inline throughout the walkthrough above. Raw files in this repo:
 
-- `phishing_capture.png.png` — SET credential harvest output (Kali terminal)
-- `HTTP POST-session.png.png` — tcpdump HTTP POST capture (Ubuntu terminal)
-- `POSSIBLE USERNAME-PASSWORD FIELD FOUN....png` — Splunk events showing phishing_capture sourcetype
-
+* `Screenshots/phishing_capture.png` — SET credential harvest output (Kali terminal)
+* `Screenshots/HTTP_POST-session.png` — tcpdump HTTP POST capture (Ubuntu terminal)
+* `Screenshots/splunk_capture.png` — Splunk events showing phishing_capture sourcetype
 ---
 
 ## 🔗 Related Project
