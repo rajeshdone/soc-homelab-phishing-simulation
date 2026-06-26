@@ -135,7 +135,7 @@ index=main sourcetype=phishing_capture "POST"
 
 This query surfaces HTTP POST events — the exact mechanism used to exfiltrate credentials.
 
-![Splunk Events - phishing_capture sourcetype](Screenshots/POSSIBLE_20USERNAME_PASSWORD_FIELD_FOUND.png)
+![Splunk Events - phishing_capture sourcetype](Screenshots/POSSIBLE_USERNAME_PASSWORD_FIELD_FOUND.png)
 
 ---
 
